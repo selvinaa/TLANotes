@@ -1,0 +1,6 @@
+SDLC
+Software Development Life Cicle
+
+-1. Starts with Planning
+-2. Development
+-3. Testing

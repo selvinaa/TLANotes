@@ -1,0 +1,6 @@
+Selenium is Good 
+
+- 1. Selenium is an automation tool that interact with the web pages.
+- 2. Selenium have 4 different types;
+- 3. Selenium IDE
+- 4. Selenium RC

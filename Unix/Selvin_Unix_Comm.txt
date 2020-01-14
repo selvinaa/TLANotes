@@ -1,0 +1,4 @@
+Unix Selvin Commands
+-1. pwd gets the current location
+-2. ls gets the list of Elements
+-3. cd gets you back or inside of
